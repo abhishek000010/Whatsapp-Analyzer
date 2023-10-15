@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 
 st.sidebar.title('whatsapp chat analyzer')
 
+# st.header('hello')
+
 
 uploaded_file = st.sidebar.file_uploader('choose a file')
 
